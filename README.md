@@ -18,14 +18,8 @@ The main goals of this project are to:
 ### Installation
 First, clone the repository:
 ```bash
-git clone git@vogsphere.42antananarivo.mg:vogsphere/intra-uuid-a9aecd4e-972d-4efa-b1bd-d514663de489-7240777-finoment libft
+git clone https://github.com/Fianantsoa/mylibft.git libft
 cd libft
-```
-Note: The repository link may change depending on the project or user.
-In general, the command follows this format:
-```bash
-git clone <repository_url> <folder_name>
-cd <folder_name>
 ```
 
 ### Compilation
